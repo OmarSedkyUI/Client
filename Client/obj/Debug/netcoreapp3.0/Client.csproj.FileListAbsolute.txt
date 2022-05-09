@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.exe
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.dll
+C:\Users\Omar\Desktop\Client\Client\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Users\Omar\Desktop\Client\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Client\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Client\Client\obj\Debug\netcoreapp3.0\Client.dll
+C:\Users\Omar\Desktop\Client\Client\obj\Debug\netcoreapp3.0\Client.pdb
+c:\Users\Omar\Desktop\Client\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
